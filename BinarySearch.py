@@ -1,10 +1,10 @@
 import math
 
-A = [1,2,6,13,15,8,23,35,40]
-left = 0
-right = 8
-mid = 0
-searchkey = 40
+A = [1,2,6,13,15,8,23,35,40] #Array of Numbers to search
+left = 0 #left index of search interval
+right = 8 #right index of search interval
+mid = 0 #automatic mid selection
+searchkey = 40 #enter searched number
 
 
 
